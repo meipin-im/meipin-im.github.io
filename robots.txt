@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://meipin-im.github.io/sitemap.xml
